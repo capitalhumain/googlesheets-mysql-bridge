@@ -50,9 +50,8 @@ Create new a file named demo.php
 	$bridge->sync();
 ```
 Step 4 : run code to sync.
-Example: release web with domain http://localhost/gmbdemo.
 
-Just open link http://localhost/gmbdemo/demo.php on browser, you get results:
+Example: You release the web on domain http://localhost/gmbdemo. Then you just open link http://localhost/gmbdemo/demo.php on browser, you get result:
 
 ![result table](README_images/table_result.JPG)
 
