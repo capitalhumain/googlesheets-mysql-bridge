@@ -3,10 +3,12 @@ A simple php script help you automatically update a database from sheets ( Goolg
 
 # sample problems
 You have a sheet on google sheets
+
 ![sheet](README_images/sheet.JPG)
 
 You have a associated table in SQL database
-table.JPG
+
+![sheet](README_images/table.JPG)
 
 
 When you edit sheet, you want changes will be updated to table on database Mysql
@@ -23,7 +25,8 @@ On google sheets, Access menu File >> Publish to the webs
 2. select publish format is .csv
 3. press publish
 4. copy link.
-publish.jpg
+
+![sheet](README_images/publish.jpg)
 
 Step 3 : just write code
 Create new a file named demo.php
@@ -50,5 +53,6 @@ Example: release web with domain http://localhost/gmbdemo.
 
 Just open link http://localhost/gmbdemo/demo.php on browser, you get results:
 
-table_result.JPG
-result_output.JPG
+![sheet](README_images/table_result.JPG)
+
+![sheet](README_images/result_output.JPG)
