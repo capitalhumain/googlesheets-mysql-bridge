@@ -17,6 +17,7 @@ When you edit sheet, you want changes will be updated to table on database Mysql
 # Usage
 
 For a table, you must: 
+
 Step 1 : Ensure name of column headers on sheet are field names on table. If it's wrong, you must rename it.
 
 Step 2 : Publish sheet as csv and get links.
