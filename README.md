@@ -3,7 +3,7 @@ A simple php script help you automatically update a database from sheets ( Goolg
 
 # sample problems
 You have a sheet on google sheets
-[[README_images/sheet.JPG]]
+![sheet](README_images/sheet.JPG)
 
 You have a associated table in SQL database
 table.JPG
